@@ -21,7 +21,7 @@ This program is designed to detect whether a person is wearing a safety hardhat 
 ## Installation
 1. Clone or download the repository:
    ```sh
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/PheChon/Detection-Save_Safety.helmet
    cd your-repository-folder
    ```
 2. Install dependencies manually using:
