@@ -65,4 +65,4 @@ This program is designed to detect whether a person is wearing a safety hardhat 
 This project is open-source under the MIT License. Feel free to modify and improve it!
 
 ## Author
-- **Pha.Chon (Teeraphop Chantra)**
+- **Pha.Chon (Thiraphop Chantra)**
